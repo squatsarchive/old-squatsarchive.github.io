@@ -1,4 +1,5 @@
 ---
+permalink: zob
 ---
 
 ## A New Post
