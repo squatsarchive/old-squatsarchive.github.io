@@ -1,5 +1,6 @@
 ---
 permalink: zob.html
+published: true
 ---
 
 ## A New Post
