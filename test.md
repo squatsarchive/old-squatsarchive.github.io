@@ -1,5 +1,5 @@
 ---
-permalink: zob
+permalink: zob.html
 ---
 
 ## A New Post
