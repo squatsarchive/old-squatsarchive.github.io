@@ -1,6 +1,5 @@
 ---
-permalink: zob.html
-published: true
+published: false
 ---
 
 ## A New Post
